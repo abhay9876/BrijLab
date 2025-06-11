@@ -2,7 +2,7 @@ package com.practice_set_1;
 
 import java.util.Scanner;
 
-public class Km_to_miles {
+public class KmToMiles {
 	public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);
     	float km = sc.nextInt();

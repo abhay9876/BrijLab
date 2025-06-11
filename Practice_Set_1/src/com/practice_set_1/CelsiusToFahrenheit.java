@@ -1,6 +1,6 @@
 package com.practice_set_1;
 import java.util.*;
-public class Celsius_to_Fahrenheit {
+public class CelsiusToFahrenheit {
     public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);
     	float celsius = sc.nextFloat();

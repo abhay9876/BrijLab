@@ -2,7 +2,7 @@ package com.practice_set_1;
 
 import java.util.*;
 
-public class Power_calculation {
+public class PowerCalculation {
 	public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);
     	int l = sc.nextInt();
